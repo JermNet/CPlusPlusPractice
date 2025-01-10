@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF1ECAA-07A0-43D3-9D60-CB16AEA0F2CE}|TwoNumbers\\TwoNumbers.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\TwoNumbers\\TwoNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BF1ECAA-07A0-43D3-9D60-CB16AEA0F2CE}|TwoNumbers\\TwoNumbers.vcxproj|solutionrelative:TwoNumbers\\TwoNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A6982A-68E6-44E8-825B-A9F3378A2F0F}|Transpose\\Transpose.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Transpose\\Transpose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53A6982A-68E6-44E8-825B-A9F3378A2F0F}|Transpose\\Transpose.vcxproj|solutionrelative:Transpose\\Transpose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1AF1B8-37BA-4103-9A21-47BA9F811D53}|Switch\\Switch.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Switch\\Switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A1AF1B8-37BA-4103-9A21-47BA9F811D53}|Switch\\Switch.vcxproj|solutionrelative:Switch\\Switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314EE4FB-7FE2-4E07-98B1-95B4D2C945F7}|SwapNumbers\\SwapNumbers.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\SwapNumbers\\SwapNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314EE4FB-7FE2-4E07-98B1-95B4D2C945F7}|SwapNumbers\\SwapNumbers.vcxproj|solutionrelative:SwapNumbers\\SwapNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6F6A45-6FF1-4E5D-A42C-DD0B8D50296E}|Sum\\Sum.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Sum\\Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B6F6A45-6FF1-4E5D-A42C-DD0B8D50296E}|Sum\\Sum.vcxproj|solutionrelative:Sum\\Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD41F05-5EF9-4A02-BAA9-FC3A917C89A7}|Stair\\Stair.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Stair\\Stair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AD41F05-5EF9-4A02-BAA9-FC3A917C89A7}|Stair\\Stair.vcxproj|solutionrelative:Stair\\Stair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9599E1E-B50F-48EA-B03B-939927D50384}|Rectangle\\Rectangle.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Rectangle\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9599E1E-B50F-48EA-B03B-939927D50384}|Rectangle\\Rectangle.vcxproj|solutionrelative:Rectangle\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6578C9BE-77E2-4B09-B434-3A9E7FAEEBC3}|Operation\\Operation.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Operation\\Operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6578C9BE-77E2-4B09-B434-3A9E7FAEEBC3}|Operation\\Operation.vcxproj|solutionrelative:Operation\\Operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183CF74E-0899-4521-AD4C-EC87267B2737}|Math\\Math.vcxproj|C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Math\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{183CF74E-0899-4521-AD4C-EC87267B2737}|Math\\Math.vcxproj|solutionrelative:Math\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoNumbers.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\TwoNumbers\\TwoNumbers.cpp",
+              "RelativeDocumentMoniker": "TwoNumbers\\TwoNumbers.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\TwoNumbers\\TwoNumbers.cpp",
+              "RelativeToolTip": "TwoNumbers\\TwoNumbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:15:53.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transpose.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Transpose\\Transpose.cpp",
+              "RelativeDocumentMoniker": "Transpose\\Transpose.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Transpose\\Transpose.cpp",
+              "RelativeToolTip": "Transpose\\Transpose.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:12:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Switch.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Switch\\Switch.cpp",
+              "RelativeDocumentMoniker": "Switch\\Switch.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Switch\\Switch.cpp",
+              "RelativeToolTip": "Switch\\Switch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:10:58.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwapNumbers.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\SwapNumbers\\SwapNumbers.cpp",
+              "RelativeDocumentMoniker": "SwapNumbers\\SwapNumbers.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\SwapNumbers\\SwapNumbers.cpp",
+              "RelativeToolTip": "SwapNumbers\\SwapNumbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:09:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sum.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Sum\\Sum.cpp",
+              "RelativeDocumentMoniker": "Sum\\Sum.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Sum\\Sum.cpp",
+              "RelativeToolTip": "Sum\\Sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:07:23.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stair.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Stair\\Stair.cpp",
+              "RelativeDocumentMoniker": "Stair\\Stair.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Stair\\Stair.cpp",
+              "RelativeToolTip": "Stair\\Stair.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:04:34.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Rectangle\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Rectangle\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Rectangle\\Rectangle.cpp",
+              "RelativeToolTip": "Rectangle\\Rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:02:56.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Operation.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Operation\\Operation.cpp",
+              "RelativeDocumentMoniker": "Operation\\Operation.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Operation\\Operation.cpp",
+              "RelativeToolTip": "Operation\\Operation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:00:55.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Math.cpp",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Math\\Math.cpp",
+              "RelativeDocumentMoniker": "Math\\Math.cpp",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CPlusPlusPractice\\Math\\Math.cpp",
+              "RelativeToolTip": "Math\\Math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T15:59:31.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

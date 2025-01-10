@@ -1,0 +1,8 @@
+﻿  HeaderFiles.cpp
+  mathematics.cpp
+  Generating Code...
+mathematics.obj : error LNK2005: "int __cdecl add(int,int)" (?add@@YAHHH@Z) already defined in HeaderFiles.obj
+mathematics.obj : error LNK2005: "double __cdecl divide(double,double)" (?divide@@YANNN@Z) already defined in HeaderFiles.obj
+mathematics.obj : error LNK2005: "int __cdecl mul(int,int)" (?mul@@YAHHH@Z) already defined in HeaderFiles.obj
+mathematics.obj : error LNK2005: "int __cdecl sub(int,int)" (?sub@@YAHHH@Z) already defined in HeaderFiles.obj
+C:\Users\wjd47\Code\CPlusPlusPractice\x64\Debug\HeaderFiles.exe : fatal error LNK1169: one or more multiply defined symbols found

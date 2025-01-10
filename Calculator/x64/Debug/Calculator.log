@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+C:\Users\wjd47\Code\CPlusPlusPractice\Calculator\Calculator.cpp(16,1): warning C4717: 'factorial': recursive on all control paths, function will cause runtime stack overflow
+  Calculator.vcxproj -> C:\Users\wjd47\Code\CPlusPlusPractice\x64\Debug\Calculator.exe

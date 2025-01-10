@@ -1,0 +1,10 @@
+﻿  fruits.cpp
+C:\Users\wjd47\Code\CPlusPlusPractice\FruitTest\fruits.h(14,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'fruits.cpp')
+  
+  FruitTest.cpp
+C:\Users\wjd47\Code\CPlusPlusPractice\FruitTest\fruits.h(14,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'FruitTest.cpp')
+  
+  Generating Code...
+  FruitTest.vcxproj -> C:\Users\wjd47\Code\CPlusPlusPractice\x64\Debug\FruitTest.exe
